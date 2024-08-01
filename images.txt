@@ -1,4 +1,3 @@
-goharbor/harbor-portal:v2.11.0
-goharbor/harbor-core:v2.11.0
+vbouchaud/nfs-client-provisioner:latest
 #支持指定架构
 --platform=linux/arm64 xiaoyaliu/alist
