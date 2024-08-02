@@ -1,12 +1,6 @@
-goharbor/harbor-portal:v2.2.0
-goharbor/nginx-photon:v2.2.0
-goharbor/harbor-core:v2.2.0
-goharbor/harbor-jobservice:v2.2.0
-goharbor/registry-photon:v2.2.0
-goharbor/harbor-registryctl:v2.2.0
-goharbor/trivy-adapter-photon:v2.2.0
-goharbor/harbor-db:v2.2.0
-goharbor/redis-photon:v2.2.0
-goharbor/harbor-exporter:v2.2.0
+mysql:5.7.30
+busybox:1.32
+bats/bats:1.2.1
+prom/mysqld-exporter:v0.10.0
 #支持指定架构
 --platform=linux/arm64 xiaoyaliu/alist
